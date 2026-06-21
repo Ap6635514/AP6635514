@@ -1,214 +1,160 @@
-<h1 align="center">🌌 Hi, I'm Abhishek Pandey 👋</h1>
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Banner">
+</p>
+
+<h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
 
 <h3 align="center">
-Physics • Astronomy • Artificial Intelligence • Software Engineering
+Computational Astrophysics • Scientific Computing • Machine Learning • Python Developer
 </h3>
 
 <p align="center">
-<i>"Exploring the Universe Through Code."</i>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=900&lines=Physics+Student;Astronomy+Enthusiast;Scientific+Software+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Building+Tools+for+Astronomy;Exploring+the+Universe+Through+Code" />
+Building software that explores the universe through computation.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a **Physics student** passionate about **Astronomy, Artificial Intelligence, and Scientific Software Engineering**.
+I'm a student passionate about combining **Physics**, **Astronomy**, and **Computer Science** to solve scientific problems.
 
-I enjoy building software that combines **physics, machine learning, and programming** to solve real scientific problems.
+My primary interests include:
 
-My long-term goal is to contribute to **Computational Astrophysics**, **AI-driven Astronomy**, and **Scientific Research** while pursuing higher studies in Physics.
+- 🌌 Computational Astrophysics
+- 🤖 Machine Learning
+- 🛰 Scientific Computing
+- 🐍 Python Development
+- 🔭 Astronomy Simulations
+- 📊 Data Science
+- ⚡ Numerical Methods
 
----
-
-# 🚀 Current Mission
-
-- 🇩🇪 Preparing for Physics studies in Germany
-- 🔭 Building an Astrophotography Portfolio
-- 🤖 Developing AI for Astronomy
-- 🌌 Building Scientific Software
-- 📡 Learning Computational Astrophysics
-- 💻 Contributing to Open Source
+I enjoy building scientific software, simulations, machine learning models, and developer tools that solve real-world problems.
 
 ---
 
-# 🌟 Featured Projects
+# 🧠 Currently Learning
 
-## 🚀 NovaDesk
-
-Modern Desktop Productivity Suite built with **Python** & **CustomTkinter**.
-
-### Features
-
-- 📊 Dashboard
-- 📁 Project Manager
-- 📥 Downloads Organizer
-- 🧹 Workspace Cleaner
-- 🛠 Developer Tools
-- ⚙ Persistent Settings
-- 🪟 Windows Executable
-
-**Tech Stack**
-
-`Python` • `CustomTkinter`
+- Computational Astrophysics
+- Numerical Methods
+- Deep Learning
+- Scientific Python
+- High Performance Computing
+- Data Structures & Algorithms
+- Software Engineering
 
 ---
 
-## 🤖 Exoplanet Detection CNN
+# 🚀 Featured Projects
 
-Deep Learning project for detecting **Exoplanet Transit Signals** using stellar light curves.
+## 🌌 NovaDesk
 
-### Features
+Modern desktop productivity suite for developers.
 
-- CNN Architecture
-- Transit Signal Detection
-- Light Curve Analysis
-- Noise Handling
-- Scientific Data Processing
+- Project Manager
+- Workspace Cleaner
+- Downloads Organizer
+- Developer Toolkit
+- Settings Manager
 
-**Tech Stack**
+**Tech**
 
-`Python` • `PyTorch` • `Deep Learning`
-
----
-
-## 🌌 Galaxy Simulator
-
-Real-time **N-body gravitational simulation** demonstrating galaxy dynamics.
-
-### Features
-
-- N-body Physics
-- Gravitational Simulation
-- Real-Time Visualization
-
-**Tech Stack**
-
-`Python`
+Python • CustomTkinter
 
 ---
 
 ## ⭐ Binary Star Simulator
 
-Simulation of binary star systems using **Classical Mechanics** and **Orbital Dynamics**.
+Computational astrophysics project that simulates binary star systems using numerical integration and Newtonian gravity.
 
-### Features
+**Tech**
 
-- Newtonian Gravity
-- Orbital Motion
-- Numerical Simulation
-
-**Tech Stack**
-
-`Python`
+Python • NumPy • Physics
 
 ---
 
-## 🔭 Astronomy Object Classifier
+## 🌌 Galaxy Simulator
 
-Machine Learning model for classifying **Stars**, **Galaxies**, and **Quasars**.
+N-body gravitational simulation that models galaxy evolution.
 
-### Features
+**Tech**
 
-- SDSS Dataset
-- Scikit-learn Pipeline
-- Multi-Class Classification
-
-**Tech Stack**
-
-`Python` • `Scikit-learn`
+Python • Scientific Computing
 
 ---
 
-## 🌍 Cosmic OS
+## 🪐 Exoplanet Detection CNN
 
-A futuristic web-based operating system simulation.
+Deep Learning model for detecting exoplanets using stellar light curves.
 
-🌐 **Live Demo**
+**Tech**
 
-https://comic-os.vercel.app
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
+Python • PyTorch • Machine Learning
 
 ---
 
-## 🌠 Cosmic Life
+## ✨ Astronomy Object Classifier
 
-Interactive simulation exploring life and evolution in a cosmic environment.
+Machine Learning model that classifies celestial objects using SDSS data.
 
-🌐 **Live Demo**
+**Tech**
 
-https://cosmic-life.vercel.app
-
-**Tech Stack**
-
-`JavaScript`
+Python • Scikit-Learn
 
 ---
 
-## 📸 Astrophotography Portfolio
+## 🌠 Cosmic OS
 
-Personal website showcasing:
+A futuristic web operating system inspired by space exploration.
 
-- Astrophotography
-- Astronomy Projects
-- Learning Journey
+**Tech**
 
----
-
-## 📈 Progress Tracker
-
-Web application for monitoring learning goals and project milestones.
+HTML • CSS • JavaScript
 
 ---
 
-# 🔬 Research Interests
-
-- 🌌 Computational Astrophysics
-- 🔭 Astronomy
-- 🤖 Artificial Intelligence
-- 📊 Machine Learning
-- 🛰 Space Technology
-- 🌠 Astrophotography
-- ⚡ Scientific Computing
-- 📈 Data Analysis
-- 🌍 Physics Simulations
-
----
-
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frameworks & Libraries
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
-
-### Machine Learning
-
-- PyTorch
-- Scikit-learn
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-# 📊 GitHub Analytics
+### Libraries & Frameworks
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-0099ff?style=for-the-badge)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -230,74 +176,42 @@ Web application for monitoring learning goals and project milestones.
 
 ---
 
-# 📈 Contribution Graph
+# 🌍 Research Interests
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AP6635514&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AP6635514&theme=tokyonight&margin-w=15"/>
-
-</p>
+- Computational Astrophysics
+- Stellar Dynamics
+- Galaxy Simulations
+- Machine Learning for Astronomy
+- Scientific Computing
+- Numerical Physics
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 2026 Goals
 
-## 🚀 Software
-
-- ✅ NovaDesk v1.0
-- 🔄 NovaDesk v1.1
-- 🌌 Scientific Desktop Applications
-
-## 🤖 Artificial Intelligence
-
-- Exoplanet Detection AI
-- Astronomy Image Analysis
-- Radio Astronomy AI
-
-## 🔭 Astronomy
-
-- Astrophotography Portfolio
-- Telescope Data Processing
-- Astronomy Research Projects
-
-## 📚 Education
-
-- 🇩🇪 Study Physics in Germany
-- 📖 Computational Astrophysics
-- 📊 Scientific Programming
+- Build advanced Computational Astrophysics projects
+- Contribute to Open Source
+- Publish scientific software
+- Develop AI for Astronomy
+- Learn High Performance Computing
+- Strengthen Machine Learning skills
 
 ---
 
 # 📫 Connect With Me
 
-🌐 GitHub
+GitHub
 
 https://github.com/AP6635514
 
----
+Portfolio (Coming Soon)
 
-# 🌠 Favorite Quote
-
-> **"The universe is vast, and every line of code is another step toward understanding it."**
+LinkedIn (Coming Soon)
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
-
-If you like my work, consider checking out my repositories.
-
-🌌 Keep Exploring.
+"Exploring the Universe through Code."
 
 </p>
